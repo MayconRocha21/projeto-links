@@ -6,9 +6,8 @@ Projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 
 <br>
 
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
+![image](https://user-images.githubusercontent.com/115021378/209752317-bb24dcab-b34c-4b4d-9b2f-bed50e82eadb.png)
+
 
 ## 🚀 Tecnologias
 
